@@ -1,0 +1,65 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "channel": {
+            "atom:link": {
+                "@href": "http://www.austintexas.gov/fact/fact_rss.cfm",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "title": "Active Fire Incident Page",
+            "link": "http://www.austintexas.gov/fact/default.cfm",
+            "description": "This page provides information on active Austin/Travis County Fire incidents.  Data is updated every 3 minutes.",
+            "lastBuildDate": "Tue, 01 Feb 2022 10:22:48 CDT",
+            "copyright": "2022 City of Austin. All rights reserved.",
+            "language": "en-us",
+            "item": [
+                {
+                    "title": "RESQT - Rescue Task Force",
+                    "link": "http://maps.google.com/maps?q=30.238429,-97.789697",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "50B21295A9DCCCC2F0250AD37ED7B9C863E04939"
+                    },
+                    "description": "3816 S Lamar Blvd Sb | AFD | 10:03:37",
+                    "pubDate": "Tue, 01 Feb 2022 10:03:37 CDT",
+                    "active_status": "yes"
+                },
+                {
+                    "title": "BOX -Structure Fire",
+                    "link": "http://maps.google.com/maps?q=30.355673,-97.683941",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "18D9C6935A663C7A3E31A1E19F4B0728C719DAC2"
+                    },
+                    "description": "1007 E Rundberg Ln | AFD | 09:05:10",
+                    "pubDate": "Tue, 01 Feb 2022 09:05:10 CDT",
+                    "active_status": "yes"
+                },
+                {
+                    "title": "HC - Hazardous Condition",
+                    "link": "http://maps.google.com/maps?q=30.256175,-97.724925",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "F13A42BABBE5EAF011B362C5B851B5F5221FE585"
+                    },
+                    "description": "1901 Willow St | AFD | 10:02:32",
+                    "pubDate": "Tue, 01 Feb 2022 10:02:32 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "ODOR - Odor Investigation",
+                    "link": "http://maps.google.com/maps?q=30.502678,-97.756130",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "7936009820B3552727836670E95CAD5CFDE50569"
+                    },
+                    "description": "15913 Double Eagle Dr | AFD | 10:19:01",
+                    "pubDate": "Tue, 01 Feb 2022 10:19:01 CDT",
+                    "active_status": "yes"
+                }
+            ]
+        }
+    }
+}

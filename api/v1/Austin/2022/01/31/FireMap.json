@@ -1,0 +1,101 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "channel": {
+            "atom:link": {
+                "@href": "http://www.austintexas.gov/fact/fact_rss.cfm",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "title": "Active Fire Incident Page",
+            "link": "http://www.austintexas.gov/fact/default.cfm",
+            "description": "This page provides information on active Austin/Travis County Fire incidents.  Data is updated every 3 minutes.",
+            "lastBuildDate": "Wed, 26 Jan 2022 15:37:52 CDT",
+            "copyright": "2022 City of Austin. All rights reserved.",
+            "language": "en-us",
+            "item": [
+                {
+                    "title": "ALARM - Fire Alarm",
+                    "link": "http://maps.google.com/maps?q=30.391510,-97.937212",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "16984C1B6622C189F280AAE1791752D48AB86AC9"
+                    },
+                    "description": "15600 Lariat Trl | ESD06 | 11:04:36",
+                    "pubDate": "Wed, 26 Jan 2022 11:04:36 CDT"
+                },
+                {
+                    "title": "BOX -Structure Fire",
+                    "link": "http://maps.google.com/maps?q=30.319607,-97.730291",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "BE0DB55613AD6FCD775DF1D718775668EFCF6BF6"
+                    },
+                    "description": "5200 N Lamar Blvd | AFD | 11:32:23",
+                    "pubDate": "Wed, 26 Jan 2022 11:32:23 CDT"
+                },
+                {
+                    "title": "SMOKE - Smoke Investigation",
+                    "link": "http://maps.google.com/maps?q=30.314885,-97.833185",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "6AE708AF47E472713EC3577713D05BC52DB936C9"
+                    },
+                    "description": "10-14 Cicero Ln | ESD09 | 15:10:40",
+                    "pubDate": "Wed, 26 Jan 2022 15:10:40 CDT"
+                },
+                {
+                    "title": "ALARM - Fire Alarm",
+                    "link": "http://maps.google.com/maps?q=30.401738,-97.630656",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "C11E07CF3D84E7A25B354E4F769A559EC8CEDD9D"
+                    },
+                    "description": "13600 Immanuel Rd | AFD | 15:22:11",
+                    "pubDate": "Wed, 26 Jan 2022 15:22:11 CDT"
+                },
+                {
+                    "title": "BOX -Structure Fire",
+                    "link": "http://maps.google.com/maps?q=30.357813,-97.795600",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "2DFB8491DC7BFB538EB1C55F10B0FA616EC3F2B1"
+                    },
+                    "description": "6000 Shepherd Mountain Cv | AFD | 14:04:37",
+                    "pubDate": "Wed, 26 Jan 2022 14:04:37 CDT"
+                },
+                {
+                    "title": "PS - Elevator/Person Stuck",
+                    "link": "http://maps.google.com/maps?q=30.456121,-97.791555",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "7C7A33B309C57FEB3FCDBB21AEB64DF335F43339"
+                    },
+                    "description": "13681 N Us 183 Hwy Svrd Nb | AFD | 14:54:55",
+                    "pubDate": "Wed, 26 Jan 2022 14:54:55 CDT"
+                },
+                {
+                    "title": "ODOR - Odor Investigation",
+                    "link": "http://maps.google.com/maps?q=30.281517,-97.683393",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "C4EB8E921201FE16D8CBC2F93DC5D95E27B56AD2"
+                    },
+                    "description": "1412 Berene Ave | AFD | 15:29:50",
+                    "pubDate": "Wed, 26 Jan 2022 15:29:50 CDT"
+                },
+                {
+                    "title": "TRASH - Trash Fire",
+                    "link": "http://maps.google.com/maps?q=30.571167,-97.937325",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "E755312B92F7FEF7A2603A58E86086955F3F3F67"
+                    },
+                    "description": "14601 Honeycomb Dr | ESD01 | 15:33:22",
+                    "pubDate": "Wed, 26 Jan 2022 15:33:22 CDT"
+                }
+            ]
+        }
+    }
+}

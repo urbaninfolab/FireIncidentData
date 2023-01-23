@@ -1,0 +1,131 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "channel": {
+            "atom:link": {
+                "@href": "http://www.austintexas.gov/fact/fact_rss.cfm",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "title": "Active Fire Incident Page",
+            "link": "http://www.austintexas.gov/fact/default.cfm",
+            "description": "This page provides information on active Austin/Travis County Fire incidents.  Data is updated every 3 minutes.",
+            "lastBuildDate": "Thu, 10 Feb 2022 15:59:31 CDT",
+            "copyright": "2022 City of Austin. All rights reserved.",
+            "language": "en-us",
+            "item": [
+                {
+                    "title": "RESQV - Vehicle Rescue",
+                    "link": "http://maps.google.com/maps?q=30.214924,-97.735288",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "FE73EFE08CD89A582AED3D91A3E2DF59BB37E651"
+                    },
+                    "description": "3700-3950 TODD LN | AFD | 10:07:21",
+                    "pubDate": "Thu, 10 Feb 2022 10:07:21 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "HC - Hazardous Condition",
+                    "link": "http://maps.google.com/maps?q=30.206838,-97.740424",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "58CCBB3C4ADAD014C932175E805DACD2F32D188C"
+                    },
+                    "description": "4401 E ST ELMO RD | AFD | 10:26:14",
+                    "pubDate": "Thu, 10 Feb 2022 10:26:14 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "UNK - Unknown Condition",
+                    "link": "http://maps.google.com/maps?q=30.480962,-97.976776",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "092BDE37C963A3E7906DFA59701B570B2878F229"
+                    },
+                    "description": "20701-21025 FM 1431 RD | ESD01 | 10:47:49",
+                    "pubDate": "Thu, 10 Feb 2022 10:47:49 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "ALARM - Fire Alarm",
+                    "link": "http://maps.google.com/maps?q=30.136639,-97.855835",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "2D57790681DDE13CEBC482826700A6778F01E5BE"
+                    },
+                    "description": "2310 Bliss Spillar Rd | ESD05 | 10:41:05",
+                    "pubDate": "Thu, 10 Feb 2022 10:41:05 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "GRASS - Small Grass Fire",
+                    "link": "http://maps.google.com/maps?q=30.017542,-97.677728",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "AECF70D961AB11C7F33253D25D857CBA963D568D"
+                    },
+                    "description": "1030 Old Lockhart Rd | ESD11 | 15:10:03",
+                    "pubDate": "Thu, 10 Feb 2022 15:10:03 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "ALARM - Fire Alarm",
+                    "link": "http://maps.google.com/maps?q=30.351934,-97.707526",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "6BD44353974D4B86A849AA4F2C7949B0C6A91CB7"
+                    },
+                    "description": "8300 N Lamar Blvd | AFD | 15:20:50",
+                    "pubDate": "Thu, 10 Feb 2022 15:20:50 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "SMOKE - Smoke Investigation",
+                    "link": "http://maps.google.com/maps?q=30.246301,-97.691075",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "DDC65FCCFDCFCCC0C0E52F75B4689514DC6601C0"
+                    },
+                    "description": "2-626 Ed Bluestein Blvd Sb | AFD | 15:38:11",
+                    "pubDate": "Thu, 10 Feb 2022 15:38:11 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "ODOR - Odor Investigation",
+                    "link": "http://maps.google.com/maps?q=30.184039,-97.750331",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "6F79520F81D499CA30E7F01147CA2BD211A95066"
+                    },
+                    "description": "4708 Creek Bend Dr | AFD | 15:45:01",
+                    "pubDate": "Thu, 10 Feb 2022 15:45:01 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "SMOKE - Smoke Investigation",
+                    "link": "http://maps.google.com/maps?q=30.269864,-97.749243",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "26D3F7275CA5E0695E08DE560DE4969B38CC961A"
+                    },
+                    "description": "613 W 6TH ST | AFD | 15:45:51",
+                    "pubDate": "Thu, 10 Feb 2022 15:45:51 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "Traffic Injury Pri 4F",
+                    "link": "http://maps.google.com/maps?q=30.234957,-97.785054",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "5F11F1DCD019E288200709379534C395E2C6A69B"
+                    },
+                    "description": "3815 Menchaca Rd | AFD | 15:19:23",
+                    "pubDate": "Thu, 10 Feb 2022 15:19:23 CDT",
+                    "active_status": "no"
+                }
+            ]
+        }
+    }
+}

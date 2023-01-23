@@ -1,0 +1,65 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "channel": {
+            "atom:link": {
+                "@href": "http://www.austintexas.gov/fact/fact_rss.cfm",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "title": "Active Fire Incident Page",
+            "link": "http://www.austintexas.gov/fact/default.cfm",
+            "description": "This page provides information on active Austin/Travis County Fire incidents.  Data is updated every 3 minutes.",
+            "lastBuildDate": "Wed, 09 Feb 2022 21:47:57 CDT",
+            "copyright": "2022 City of Austin. All rights reserved.",
+            "language": "en-us",
+            "item": [
+                {
+                    "title": "Traffic Injury Pri 4F",
+                    "link": "http://maps.google.com/maps?q=30.446956,-97.797329",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "08CCF9453E627F41FF1964EE4171C52D7D74D8F2"
+                    },
+                    "description": "9905-blk Anderson Mill Rd | AFD | 20:35:24",
+                    "pubDate": "Wed, 09 Feb 2022 20:35:24 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "SPILL - Liquid < 5 Gallons",
+                    "link": "http://maps.google.com/maps?q=30.373504,-97.726291",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "87E098C2D8540B77FD53B28D91A22ABE58A160A1"
+                    },
+                    "description": "Burnet Rd / Research Blvd Svrd Nb | AFD | 21:27:26",
+                    "pubDate": "Wed, 09 Feb 2022 21:27:26 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "TRASH - Trash Fire",
+                    "link": "http://maps.google.com/maps?q=30.241149,-97.758109",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "2355808303BB44A1C67D64D49FB7289B74FDB121"
+                    },
+                    "description": "2410 Durwood St | AFD | 21:43:53",
+                    "pubDate": "Wed, 09 Feb 2022 21:43:53 CDT",
+                    "active_status": "no"
+                },
+                {
+                    "title": "HC - Hazardous Condition",
+                    "link": "http://maps.google.com/maps?q=30.187743,-97.772896",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "4A2B65DCEB53BCED8A9DC36600B91663AA5558B0"
+                    },
+                    "description": "6808 S Ih 35 Svrd Sb | AFD | 21:34:05",
+                    "pubDate": "Wed, 09 Feb 2022 21:34:05 CDT",
+                    "active_status": "no"
+                }
+            ]
+        }
+    }
+}
